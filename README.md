@@ -17,9 +17,11 @@ Dự án này là một **pipeline phân tích và dự báo doanh thu (Revenue)
 ├── 3411_VinUni_DATATHON_ROUND1_EDA.ipynb                 # Phân tích dữ liệu sơ bộ (EDA)
 ├── 3411_VinUni_DATATHON_ROUND1_MACHINE___DEEP_LEARNING.ipynb  # Pipeline ML/DL chính
 ├── submission.csv                                         # File kết quả dự báo
+├── Dashboard.pbix                                         # File dashboard
 └── README.md                                              # File này
 ```
-
+Vì file Dashboard vượt quá 25MB nên nhóm xin phép upload bằng đường dẫn drive (chung thư mục với báo cáo.pdf và submission.csv)
+Link: https://drive.google.com/file/d/1H3vpRLbMipnX7K2_MRRWv7G0MhsC1gJ3/view?usp=drive_link
 ---
 
 ## 🔍 File 1: EDA (Exploratory Data Analysis)
